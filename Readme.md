@@ -7,5 +7,5 @@
 ## General Information
 CarFactory is a car manufacturing center. Main target of
 CarFactory is produced car which specified by the customer.
-## There is 1 controllers in the factory.
-- CarFactoryController Controller: Controller is that which answers the production of car.
+## There is 1 controller in the factory.
+- CarFactoryController: Controller is that which answers the production of car.
