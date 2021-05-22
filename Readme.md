@@ -2,7 +2,7 @@
 
 - **Developer**: Yunus Emre AKAN
 - **Date**: 21.05.2021
-- **Url**: 
+- **Url**: https://github.com/YemreAkan/carFactory.git
 
 ## General Information
 CarFactory is a car manufacturing center. Main target of
